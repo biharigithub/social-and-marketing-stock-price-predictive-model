@@ -1,10 +1,3 @@
-# social-and-marketing-stock-price-predictive-model
-
-
-Here's a sample **GitHub README** template for your "Social and Marketing Stock Price Predictive Model" project:
-
----
-
 # Social and Marketing Stock Price Predictive Model
 
 This repository contains a machine learning model that predicts stock prices based on social and marketing data. By analyzing trends and patterns in online activities, marketing campaigns, and financial metrics, the model provides actionable insights for investors and marketers.
@@ -78,9 +71,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or collaboration:
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
----
-
-Let me know if you want customization!
+- **Email**: vkrathour2910@gmail.com
